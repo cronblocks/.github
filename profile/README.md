@@ -1,6 +1,6 @@
-Projects managed under designated organizations are available at:
+Projects are also managed at:
 
-<p align="center">
+<p align="left">
   <!-- moveOS + Git Mine -->
   <a href="https://github.com/move-os">
     <img src="https://avatars.githubusercontent.com/u/116582302?s=48&v=4" alt="moveOS" />
@@ -27,7 +27,7 @@ Projects managed under designated organizations are available at:
   <a href="https://github.com/cronblocks-ai">
     <img src="https://avatars.githubusercontent.com/u/103107980?s=48&v=4" alt="CronBlocks AI" />
   </a> ⁌ <a href="https://github.com/cronblocks-ai">CronBlocks AI</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/innolixir">InnoLixir</a> ⁍ <a href="https://github.com/innolixir">
     <img src="https://avatars.githubusercontent.com/u/85053112?s=48&v=4" alt="InnoLixir" />
   </a>
