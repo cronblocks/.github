@@ -1,9 +1,4 @@
-# CronBlocks
-
-
-# Our Other Projects
-
-Some of our projects are being managed separately and are available at:
+Projects managed under designated organizations are available at:
 
 <p align="center">
   <!-- moveOS + Git Mine -->
