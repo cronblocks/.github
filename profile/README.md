@@ -1,4 +1,4 @@
-Projects are also managed at:
+Some projects are separately available at:
 
 <p align="left">
   <!-- moveOS + Git Mine -->
