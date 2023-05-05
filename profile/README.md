@@ -31,4 +31,11 @@ Some projects are separately available at:
   <a href="https://github.com/innolixir">InnoLixir</a> ⁍ <a href="https://github.com/innolixir">
     <img src="https://avatars.githubusercontent.com/u/85053112?s=48&v=4" alt="InnoLixir" />
   </a>
+  
+  <br />
+  
+  <!-- HappyLogic + ---- -->
+  <a href="https://github.com/happylogic">
+    <img src="https://avatars.githubusercontent.com/u/132655798?s=48&v=4" alt="CronBlocks AI" />
+  </a> ⁌ <a href="https://github.com/happylogic">Happy Logic</a>
 </p>
