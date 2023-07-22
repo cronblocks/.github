@@ -1,4 +1,4 @@
-Some projects are separately available at:
+Separate projects are hidden at:
 
 <p align="left">
   <!-- DDS.Net + Ubrant -->
