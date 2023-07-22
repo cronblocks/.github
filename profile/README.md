@@ -1,4 +1,4 @@
-Separate projects are hidden at:
+Separate projects:
 
 <p align="left">
   <!-- DDS.Net + Ubrant -->
