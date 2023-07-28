@@ -16,7 +16,7 @@ Separate projects:
   <a href="https://github.com/move-os">
     <img src="https://avatars.githubusercontent.com/u/116582302?s=48&v=4" alt="moveOS" />
   </a> ⁌ <a href="https://github.com/move-os">moveOS</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/git-mine">Git Mine</a> ⁍ <a href="https://github.com/git-mine">
     <img src="https://avatars.githubusercontent.com/u/125908595?s=48&v=4" alt="Git Mine" />
   </a>
