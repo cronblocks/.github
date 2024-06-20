@@ -1,6 +1,4 @@
-Separate projects:
-
-<p align="left">
+<p align="center">
   <!-- DDS.Net + Ubrant -->
   <a href="https://github.com/dds-dotnet">
     <img src="https://avatars.githubusercontent.com/u/125957062?s=48&v=4" alt="dds dotnet" />
