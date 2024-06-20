@@ -3,7 +3,7 @@
   <a href="https://github.com/dds-dotnet">
     <img src="https://avatars.githubusercontent.com/u/125957062?s=48&v=4" alt="dds dotnet" />
   </a> ⁌ <a href="https://github.com/dds-dotnet">DDS.Net</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/ubrant">Ubrant</a> ⁍ <a href="https://github.com/ubrant">
     <img src="https://avatars.githubusercontent.com/u/87671848?s=48&v=4" alt="Ubrant" />
   </a>
@@ -21,10 +21,10 @@
   
   <br />
   
-  <!-- CronBlocks AI + InnoLixir -->
-  <a href="https://github.com/cronblocks-ai">
-    <img src="https://avatars.githubusercontent.com/u/103107980?s=48&v=4" alt="CronBlocks AI" />
-  </a> ⁌ <a href="https://github.com/cronblocks-ai">CronBlocks AI</a>
+  <!-- HappyLogic + InnoLixir -->
+  <a href="https://github.com/happylogic">
+    <img src="https://avatars.githubusercontent.com/u/132655798?s=48&v=4" alt="CronBlocks AI" />
+  </a> ⁌ <a href="https://github.com/happylogic">Happy Logic</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/innolixir">InnoLixir</a> ⁍ <a href="https://github.com/innolixir">
     <img src="https://avatars.githubusercontent.com/u/85053112?s=48&v=4" alt="InnoLixir" />
@@ -32,8 +32,4 @@
   
   <br />
   
-  <!-- HappyLogic + ---- -->
-  <a href="https://github.com/happylogic">
-    <img src="https://avatars.githubusercontent.com/u/132655798?s=48&v=4" alt="CronBlocks AI" />
-  </a> ⁌ <a href="https://github.com/happylogic">Happy Logic</a>
 </p>
