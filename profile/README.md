@@ -26,7 +26,7 @@
   <a href="https://github.com/happylogic">
     <img src="https://avatars.githubusercontent.com/u/132655798?s=48&v=4" alt="CronBlocks AI" /> ⁌ Happy Logic
   </a>
-  &nbsp; &nbsp;
+  &nbsp; &nbsp;&nbsp;
   <a href="https://github.com/innolixir">
     <img src="https://avatars.githubusercontent.com/u/85053112?s=48&v=4" alt="InnoLixir" /> ⁌ InnoLixir
   </a>
