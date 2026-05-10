@@ -55,7 +55,7 @@ Design and development of firmware, BSPs, RTOS-based applications, and hardware-
 Performance-critical software targeting Windows, Linux, and freestanding environments — including device drivers, communication protocols, and low-level system utilities.
 
 ### ▸ Cross-Platform Application Development
-Desktop, web and utility applications built the way users expect.
+Desktop, mobile, web and utility applications built the way users expect.
 
 ### ▸ Hardware Design & Integration
 Electronic hardware design under industry specifications, including interfacing custom hardware with software systems for testing, monitoring, and control applications.
