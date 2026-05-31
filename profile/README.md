@@ -10,9 +10,9 @@
 
 **Systems Engineering** &nbsp;&nbsp; *&* &nbsp;&nbsp; **Software Development**
 
-***IoT*** · ***Simulators*** · ***Hardware Integration***
+***Simulators*** · ***IoT*** · ***Hardware Integration***
 
-<br>
+<br />
 
 [![Website](https://img.shields.io/badge/cronblocks.com-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://cronblocks.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/cronblocks)
