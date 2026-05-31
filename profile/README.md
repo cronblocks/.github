@@ -12,10 +12,8 @@
 
 ***Simulators*** · ***IoT*** · ***Hardware Integration***
 
-<br />
-
-[![Website](https://img.shields.io/badge/cronblocks.com-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://cronblocks.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/cronblocks)
+[![Website](https://img.shields.io/badge/cronblocks.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cronblocks.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/cronblocks)
 <!--
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@HappyLogic)
 -->
