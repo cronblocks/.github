@@ -12,6 +12,7 @@
 
 ***Simulators*** · ***IoT*** · ***Hardware Integration***
 
+<a href="https://cronblocks.com" target="_blank">![Website](https://img.shields.io/badge/cronblocks.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)</a>
 [![Website](https://img.shields.io/badge/cronblocks.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cronblocks.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/cronblocks)
 <!--
