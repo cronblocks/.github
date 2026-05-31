@@ -44,8 +44,6 @@ We bring the discipline of mission-critical engineering to every engagement
 
 <br />
 
-<br />
-
 ## What We Do
 
 ### ▸ Embedded & Realtime Systems
@@ -65,8 +63,6 @@ We produce structured educational content for developers at every level — from
 
 <br />
 
-<br />
-
 
 
 <!--
@@ -80,8 +76,6 @@ We produce structured educational content for developers at every level — from
 | [**stm32-serial-printf**](https://github.com/cronblocks/stm32-serial-printf) | Serial printf helper library for embedded targets | Stable |
 | [**md2site**](https://github.com/cronblocks/md2site) | Markdown-to-HTML static site generator | Stable |
 | [**FolderRepl**](https://github.com/cronblocks/FolderRepl) | Real-time folder replication and sync utility | Stable |
-
-<br />
 
 <br />
 
@@ -101,8 +95,6 @@ CronBlocks operates across several focused organizations, each addressing a dist
 | [**InnoLixir**](https://github.com/innolixir) | Innovation lab and experimental projects |
 
 <br />
-
-<br />
 -->
 
 ## Technology Footprint
@@ -116,8 +108,6 @@ Platforms     Windows · Linux · RTOSs · Freestanding / Bare-Metal
 Domains       Embedded · Realtime · Simulators · Hardware Integration · Security
 
 ```
-
-<br />
 
 <br />
 
