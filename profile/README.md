@@ -22,11 +22,7 @@
 
 <br />
 
-## Who We Are
-
-CronBlocks is a technology solutions provider with deep roots in systems-level engineering. We operate at the intersection of **hardware** and **software** — building solutions that are correct by design, efficient under constraints, and reliable under pressure.
-
-Our work spans from *bare-metal firmware* and *FPGA logic* to *cross-platform desktop applications* and *cloud-integrated systems*.
+A technology solutions provider with deep roots in systems-level engineering. Operating at the intersection of **hardware** and **software** — we build solutions that are correct by design, efficient under constraints, and reliable under pressure. Our work spans from *bare-metal firmware* and *FPGA logic* to *cross-platform desktop applications* and *cloud-integrated solutions*.
 
 &nbsp;
 
