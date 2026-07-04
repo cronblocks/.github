@@ -1,6 +1,6 @@
 <div align="center">
 
-<br>
+<br />
 
 ![@cronblocks](https://avatars.githubusercontent.com/u/86520771?s=120&v=4)
 
