@@ -91,11 +91,17 @@ CronBlocks operates across several focused organizations, each addressing a dist
 
 ```
 
-Languages     C · C++ · C# · Java · Assembly · Python · Bash · AWK · PowerShell
-Platforms     Windows · Linux · RTOSs · Freestanding / Bare-Metal
+Languages     C · C++ · C# · Java
+              Assembly
+              Python · Bash · AWK · PowerShell
+
+Platforms     Windows · Linux-based
+              RTOSs · Freestanding / Bare-Metal
               FPGAs · Microcontrollers · SoCs
               Cloud · Desktop · Mobile · Web
-Domains       Embedded · Realtime · Simulators · Hardware Integration · Security
+
+Domains       Embedded · Distributed · Realtime
+              Simulators · Hardware Integration · Security
 
 ```
 
