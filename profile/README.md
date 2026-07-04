@@ -24,6 +24,8 @@
 
 A technology solutions provider with deep roots in systems-level engineering. Operating at the intersection of **hardware** and **software** — we build solutions that are correct by design, efficient under constraints, and reliable under pressure. Our work spans from *bare-metal firmware* and *FPGA logic* to *cross-platform desktop applications* and *cloud-integrated* solutions.
 
+Built to specs. Built to last.
+
 &nbsp;
 
 <div align="center">
@@ -38,29 +40,23 @@ We bring the discipline of mission-critical engineering to every engagement
 
 <br />
 
-## What We Do
+### What We Do
 
-### ▸ Embedded & Realtime Systems
-Design and development of firmware, BSPs, RTOS-based applications, and hardware-interfacing software for microcontrollers, FPGAs, and single-board computers. All built to spec. Built to last.
+##### ▸ Hardware design under industry specifications
+ We develop firmware, BSPs, RTOS-based, and bare-metal applications. And make it easy to interface hardware with software systems - for testing, monitoring, and developing control applications.
+ 
+##### ▸ System Software & Tooling
+ Our core specialty lies in developing performance-critical software to run on hosted environments like Windows & Linux, and in freestanding realms.
 
-### ▸ Systems Software & Tooling
-Performance-critical software targeting Windows, Linux, and freestanding environments — including device drivers, communication protocols, and low-level system utilities.
-
-### ▸ Cross-Platform Application Development
-Desktop, mobile, web and utility applications built the way users expect.
-
-### ▸ Hardware Design & Integration
-Electronic hardware design under industry specifications, including interfacing custom hardware with software systems for testing, monitoring, and control applications.
-
-### ▸ Training & Technical Education
-We produce structured educational content for developers at every level — from beginner fundamentals to advanced systems and architecture.
+##### ▸ Training & Technical Education
+ We provide structured educational content for developers at every level — beginners to advanced.
 
 <br />
 
 
 
 <!--
-## Our Projects
+### Our Projects
 
 | Project | Description | Status |
 |---|---|---|
@@ -73,7 +69,7 @@ We produce structured educational content for developers at every level — from
 
 <br />
 
-## Our Ecosystem
+### Our Ecosystem
 
 CronBlocks operates across several focused organizations, each addressing a distinct domain:
 
@@ -91,7 +87,7 @@ CronBlocks operates across several focused organizations, each addressing a dist
 <br />
 -->
 
-## Technology Footprint
+### Technology Footprint
 
 ```
 
