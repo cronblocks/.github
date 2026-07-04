@@ -109,7 +109,7 @@ Domains       Embedded · Distributed · Realtime
 
 <div align="center">
 
-**We build with trust for precision.**
+**We build with trust. We build for precision.**
 
 [cronblocks.com](https://cronblocks.com) · [LinkedIn](https://www.linkedin.com/company/cronblocks)
 <!--
