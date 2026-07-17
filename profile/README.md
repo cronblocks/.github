@@ -22,6 +22,3 @@
 <br />
 
 We provide technology solutions backed by deep roots in systems-level engineering. Operating at the intersection of *hardware* and *software*, we create solutions that are efficient under constraints, and reliable under pressure. Solutions, spanning from *bare-metal firmware* and *FPGA logic* to *cross-platform mobile & desktop applications*, *web* and *cloud-integrated* workloads. Complete spectrum. Built to specs. Built to last.
-
-
-&nbsp;
