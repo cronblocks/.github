@@ -14,7 +14,7 @@
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cronblocks.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/cronblocks)
-[![YouTube](https://img.shields.io/badge/Email-0c878b?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:info@cronblocks.com)
+[![YouTube](https://img.shields.io/badge/Email-095f56?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:info@cronblocks.com)
 
 
 </div>
